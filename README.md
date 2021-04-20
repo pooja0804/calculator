@@ -75,7 +75,7 @@
          table{
             position:absolute;
             left:50%;
-            top:60%;
+            top:50%;
             transform: translate(-50%,-50%);
             border-collapse: collapse;
             width: 60px;
