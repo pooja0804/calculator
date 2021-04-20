@@ -74,11 +74,11 @@
          table{
             position:absolute;
             left:50%;
-            top:60%;
+            top:70%;
             transform: translate(-50%,-50%);
             border-collapse: collapse;
             width: 50px;
-            height: 300px;
+            height: 400px;
             border: 1px solid #bdc3c7;
             border-radius: 5%;
             box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
