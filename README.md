@@ -54,7 +54,7 @@
          background-color:rgba(243, 236, 236, 0.87);
          color: black;
          height: 50px;
-         width:50px;
+         width:150px;
          border:2px solid black;
          }
       
