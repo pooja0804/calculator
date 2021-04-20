@@ -34,7 +34,7 @@
          .title{
          margin-bottom: 10px;
          text-align:center;
-         color:rgb(128, 0, 96);
+         color:whitesmoke;
          font-style:bold;
          font-family: Verdana, Geneva, Tahoma, sans-serif;
          font-size:40px;
