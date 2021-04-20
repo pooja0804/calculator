@@ -53,7 +53,7 @@
          {
          background-color:rgba(243, 236, 236, 0.87);
          color: black;
-         border-radius: 50%;
+         border-radius: 5%;
          height: 50px;
          width:50px;
          border:2px solid black;
