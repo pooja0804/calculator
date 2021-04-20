@@ -77,7 +77,7 @@
             top:70%;
             transform: translate(-50%,-50%);
             border-collapse: collapse;
-            width: 50px;
+            width: 20px;
             height: 400px;
             border: 1px solid #bdc3c7;
             border-radius: 5%;
