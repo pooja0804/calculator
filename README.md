@@ -75,10 +75,10 @@
          table{
             position:absolute;
             left:50%;
-            top:60%;
+            top:40%;
             transform: translate(-50%,-50%);
             border-collapse: collapse;
-            width: 50px;
+            width: 60px;
             height: 200px;
             border: 1px solid #bdc3c7;
             border-radius: 5%;
